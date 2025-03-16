@@ -29,3 +29,11 @@ You can install PySpark using pip:
 
 ```bash
 pip install pyspark
+```
+
+You can run the code using python:
+
+```bash
+python main.py
+```
+

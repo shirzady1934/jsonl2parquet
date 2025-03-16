@@ -1,0 +1,5 @@
+results/*
+samples.csv
+spark-warehouse/*
+wikisamples.csv
+uniq_urls.csv
